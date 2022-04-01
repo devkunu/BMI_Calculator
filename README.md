@@ -1,6 +1,6 @@
 # WEB DEV WITH NODEJS
 Hi I made this project BMI CALCULATOR during the training period, conducted by <b> SHAPEAI </b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI. <br><br>Here's the link for you to watch the sessions as well<br>
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to learn a lot during these training days and it was an amazing experience learning with SHAPEAI. <br><br>Here's the link for you to watch the sessions as well<br>
 <a href="https://www.youtube.com/playlist?list=PL7z18TDRnbul748Yq6CTEnUzUfGE26AOA">
 
   <br>l got to have hands on experience on:
